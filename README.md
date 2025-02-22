@@ -8,6 +8,7 @@
 ### Контакты
 
 - https://github.com/hitoriSatochi
+- https://t.me/FlipperBruh
 
 ## Навыки
 
